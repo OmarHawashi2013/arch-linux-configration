@@ -11,5 +11,7 @@ BTW. chatgpt helped me. And I use <strong>Arch linux + i3wm</strong>
 
 
 <ul>
+  <li>Download Arch of course</li>
+  <li>Download i3wm and his core tools like i3status and dmenu</li>
   <li>Download xfce4-terminal <code>sudo pacman -S xfce4-terminal</code></li>
 </ul>
