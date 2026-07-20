@@ -7,3 +7,9 @@ BTW. chatgpt helped me. And I use <strong>Arch linux + i3wm</strong>
 <dev align="center"><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a48a1841-c40c-4bb6-8913-26c108d91b80" /></dev>
 
 <p align="center"><strong>The look that you will have</strong></p>
+
+
+
+<ul>
+  <li>Download xfce4-terminal <code>sudo pacman -S xfce4-terminal</code></li>
+</ul>
