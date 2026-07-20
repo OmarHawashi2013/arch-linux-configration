@@ -18,7 +18,9 @@ BTW. chatgpt helped me. And I use <strong>Arch linux + i3wm</strong>
 </code></li>
   <li>Download feh <code>sudo pacman -S feh
 </code></li>
-  <li>Paste files and change some paths of files and thats it</li>
+  <li>Install starship <code>sudo pacman -S feh
+</code></li>
+  <li>Paste files and change some paths of files and thats it, But in the right places ChatGPT will help you in that</li>
 </ul>
 
 <strong>BTW. take chatgpt with you to have help</strong>
