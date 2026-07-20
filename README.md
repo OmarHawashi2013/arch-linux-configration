@@ -2,3 +2,8 @@
 I setted a configrations for arch you can use it easily just replace the files and download some things using pacman package installer and thats it.
 
 BTW. chatgpt helped me. And I use <strong>Arch linux + i3wm</strong>
+
+
+<dev align="center"><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a48a1841-c40c-4bb6-8913-26c108d91b80" /></dev>
+
+<p align="center"><strong>The look that you will have</strong></p>
