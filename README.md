@@ -9,7 +9,7 @@ BTW. chatgpt helped me. And I use <strong>Arch linux + i3wm</strong>
 <p align="center"><strong>The look that you will have</strong></p>
 
 
-
+<h2>Steps</h2><br>
 <ul>
   <li>Download Arch of course</li>
   <li>Download i3wm and his core tools like i3status and dmenu</li>
