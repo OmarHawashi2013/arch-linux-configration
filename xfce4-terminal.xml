@@ -1,0 +1,14 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="font-use-system" type="bool" value="false"/>
+  <property name="font-name" type="string" value="JetBrainsMonoNL Nerd Font Mono Ultra-Bold Italic 12"/>
+  <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
+  <property name="color-background" type="string" value="#0a0a0d0d1111"/>
+  <property name="color-palette" type="string" value="rgb(10,13,17);rgb(255,123,114);rgb(63,185,80);rgb(210,153,34);rgb(88,166,255);rgb(188,140,255);rgb(57,197,207);rgb(177,186,196);rgb(72,79,88);rgb(255,161,152);rgb(86,211,100);rgb(227,179,65);rgb(121,192,255);rgb(210,168,255);rgb(86,228,237);rgb(255,255,255)"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_IBEAM"/>
+  <property name="misc-cursor-blinks" type="bool" value="false"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="scrolling-unlimited" type="bool" value="false"/>
+  <property name="menubar-visible" type="bool" value="false"/>
+</channel>

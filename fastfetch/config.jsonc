@@ -1,0 +1,60 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+
+    // إعدادات اللوجو (الكريبر الأخضر)
+    "logo": {
+        "source": "/home/omar/creeper.txt",
+        "type": "file",
+        "color": {
+            "1": "red"
+        },
+        "padding": {
+            "top": 5,      // تحريك اللوجو لأسفل
+            "left": 0,
+            "right": 1
+        }
+    },
+
+    // إعدادات العرض العامة
+    "display": {
+        "separator": " ➜ ",
+        "color": {
+            "keys": "bright_red",
+            "output": "white"
+        }
+    },
+
+    // الموديولات بالترتيب
+    "modules": [
+        // أسطر فارغة لدفع المعلومات للأسفل
+        { "type": "custom", "format": "" },
+        { "type": "custom", "format": "" },
+	{ "type": "custom", "format": "" },
+        { "type": "custom", "format": "" },
+        { "type": "custom", "format": "" },
+	{ "type": "custom", "format": "" },
+        { "type": "custom", "format": "" },
+        { "type": "custom", "format": "" },
+
+        // تلوين العنوان بالأخضر
+        {
+	    "key": "      ",
+            "type": "title",
+            "color": {
+                "user": "red",
+                "at": "white",
+                "host": "red"
+            }
+        },
+	{ 
+            "type": "custom", 
+            "format": "      ----------------------" 
+        },
+        { "type": "os", "key": "      OS" },
+        { "type": "kernel", "key": "      Kernel" },
+        { "type": "uptime", "key": "      Uptime" },
+        { "type": "shell", "key": "      Shell" },
+        { "type": "memory", "key": "      Memory" },
+        { "type": "disk", "key": "      Disk" }
+    ]
+}
